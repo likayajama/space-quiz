@@ -2,8 +2,7 @@
 
 ## Project structure
 
-- Public project URL: https://github.com/likayajama/space-quiz
-- Local quiz file URL: file:///Users/jama/Documents/Space%20Quiz/index.html
+- Local quiz file URL: file:///Users/jama/Documents/Space%20Quiz/index.html 
 - This is a dependency-free static web app. The quiz markup, styles, question data, and behavior are all in `index.html`.
 - There is no package manager manifest, build system, or configured test or lint command. Keep changes in the existing single-file structure unless the task calls for a broader change.
 
