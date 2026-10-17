@@ -2,7 +2,7 @@
 
 ## Project structure
 
-- This is a dependency-free static web app. The quiz markup, styles, question data, and behavior are all in `index.html`.
+- This is a dependency-free static web app. The quiz markup, styles, question data, and behavior are all in `index.html`.file:///Users/jama/Documents/Space%20Quiz/index.html
 - There is no package manager manifest, build system, or configured test or lint command. Keep changes in the existing single-file structure unless the task calls for a broader change.
 
 ## Implementation conventions
